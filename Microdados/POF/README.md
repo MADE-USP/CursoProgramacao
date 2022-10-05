@@ -4,4 +4,4 @@ O conteúdo desse encontro foi voltado para uma introdução à POF, mostrando s
 
 Para a extração dos dados de interesse utilizaremos de funções do pacote base do R como `aggregate()` e `merge()`, aperfeiçoando a dinâmica de manuseio das bases de microdados no `R`.
 
-O material para aula pode ser acessado nesse [link](made-usp.github.io./CursoProgramacao/docs/Curso---POF.html).
+O material para aula pode ser acessado nesse [link](https://made-usp.github.io./CursoProgramacao/Curso---POF.html).
